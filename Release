@@ -1,6 +1,6 @@
 Origin: XCon Beta Repo
 Label: XCon Beta Repo
-Suite: stable
+Suite: beta
 Version: 42~beta1
 Architectures: iphoneos-arm
 Description: XCon Beta Repo
