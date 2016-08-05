@@ -11,7 +11,7 @@
 		<package>mobilesubstrate</package>
 	</dependencies>
 	<changelog>
-		<change>Updated version from MMI.</change>
+		<change>iOS 9 Support</change>
 	</changelog>
 	<links>
 	</links>
