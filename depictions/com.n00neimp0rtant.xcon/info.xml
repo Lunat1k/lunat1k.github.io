@@ -1,0 +1,18 @@
+<package>
+	<id>com.n00neimp0rtant.xcon</id>
+	<name>Full Package</name>
+	<version>1.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>4.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<changelog>
+		<change>Updated version from MMI.</change>
+	</changelog>
+	<links>
+	</links>
+</package>
