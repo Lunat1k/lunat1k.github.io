@@ -1,4 +1,244 @@
 Package: com.n00neimp0rtant.xcon
+Version: 39~beta7
+Section: Tweaks
+Maintainer: Lunatik
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Architecture: iphoneos-arm
+Filename: Files//V39/com.n00neimp0rtant.xcon_39~beta7_iphoneos-arm.deb
+Size: 30080
+Installed-Size: 101
+MD5sum: 4065c32b0a69a50a47eb7c174d28e9da
+Description: bypass anti-jailbreak protection
+Name: xCon
+Author: Lunatik
+
+Package: com.n00neimp0rtant.xcon
+Version: 39~beta5
+Section: Tweaks
+Maintainer: Lunatik
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Architecture: iphoneos-arm
+Filename: Files//V39/com.n00neimp0rtant.xcon_39~beta5_iphoneos-arm.deb
+Size: 29838
+Installed-Size: 100
+MD5sum: fc7d15a711740409a76562027f7b4488
+Description: bypass anti-jailbreak protection
+Name: xCon
+Author: Lunatik
+
+Package: com.n00neimp0rtant.xcon
+Version: 39~beta3
+Section: Tweaks
+Maintainer: Lunatik
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Architecture: iphoneos-arm
+Filename: Files//V39/com.n00neimp0rtant.xcon_39~beta3_iphoneos-arm.deb
+Size: 28674
+Installed-Size: 96
+MD5sum: c3ad9524fafb83432acacfa372005566
+Description: bypass anti-jailbreak protection
+Name: xCon
+Author: Lunatik
+
+Package: com.n00neimp0rtant.xcon
+Version: 39~beta6
+Section: Tweaks
+Maintainer: Lunatik
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Architecture: iphoneos-arm
+Filename: Files//V39/com.n00neimp0rtant.xcon_39~beta6_iphoneos-arm.deb
+Size: 29898
+Installed-Size: 100
+MD5sum: 812cc631bf645716dd0256a0fde298d6
+Description: bypass anti-jailbreak protection
+Name: xCon
+Author: Lunatik
+
+Package: com.n00neimp0rtant.xcon
+Version: 39~beta1
+Section: Tweaks
+Maintainer: Lunatik
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Architecture: iphoneos-arm
+Filename: Files//V39/com.n00neimp0rtant.xcon_39~beta1_iphoneos-arm.deb
+Size: 28466
+Installed-Size: 95
+MD5sum: d390f850c9c95989679bfcdd6720864f
+Description: bypass anti-jailbreak protection
+Name: xCon
+Author: Lunatik
+
+Package: com.n00neimp0rtant.xcon
+Version: 39~beta4
+Section: Tweaks
+Maintainer: Lunatik
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Architecture: iphoneos-arm
+Filename: Files//V39/com.n00neimp0rtant.xcon_39~beta4_iphoneos-arm.deb
+Size: 29306
+Installed-Size: 100
+MD5sum: 055dd83c45fc9b9e160649447be5abd2
+Description: bypass anti-jailbreak protection
+Name: xCon
+Author: Lunatik
+
+Package: com.n00neimp0rtant.xcon
+Version: 39~beta2
+Section: Tweaks
+Maintainer: Lunatik
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Architecture: iphoneos-arm
+Filename: Files//V39/com.n00neimp0rtant.xcon_39~beta2_iphoneos-arm.deb
+Size: 28676
+Installed-Size: 96
+MD5sum: 800f3f5273144efba36ee7401833abdc
+Description: bypass anti-jailbreak protection
+Name: xCon
+Author: Lunatik
+
+Package: com.n00neimp0rtant.xcon
+Version: 40~beta8
+Section: Tweaks
+Maintainer: Lunatik
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Architecture: iphoneos-arm
+Filename: Files//V40/com.n00neimp0rtant.xcon_40~beta8_iphoneos-arm.deb
+Size: 84742
+Installed-Size: 348
+MD5sum: dc5d46db6e69056669ade9b992aa92a7
+Description: bypass anti-jailbreak protection
+Name: xCon
+Author: Lunatik
+
+Package: com.n00neimp0rtant.xcon
+Version: 40~beta5
+Section: Tweaks
+Maintainer: Lunatik
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Architecture: iphoneos-arm
+Filename: Files//V40/com.n00neimp0rtant.xcon_40~beta5_iphoneos-arm.deb
+Size: 85212
+Installed-Size: 315
+MD5sum: 54557e9c05657ff1a75415095ca7cb82
+Description: bypass anti-jailbreak protection
+Name: xCon
+Author: Lunatik
+
+Package: com.n00neimp0rtant.xcon
+Version: 40~beta4
+Section: Tweaks
+Maintainer: Lunatik
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Architecture: iphoneos-arm
+Filename: Files//V40/com.n00neimp0rtant.xcon_40~beta4_iphoneos-arm.deb
+Size: 90198
+Installed-Size: 350
+MD5sum: 77b9da5e915e37ce52db69de315d955d
+Description: bypass anti-jailbreak protection
+Name: xCon
+Author: Lunatik
+
+Package: com.n00neimp0rtant.xcon
+Version: 40~beta2
+Section: Tweaks
+Maintainer: Lunatik
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Architecture: iphoneos-arm
+Filename: Files//V40/com.n00neimp0rtant.xcon_40~beta2_iphoneos-arm.deb
+Size: 58832
+Installed-Size: 252
+MD5sum: b6842a5c52126afe62d7fcf0d432dd0b
+Description: bypass anti-jailbreak protection
+Name: xCon
+Author: Lunatik
+
+Package: com.n00neimp0rtant.xcon
+Version: 40~beta6
+Section: Tweaks
+Maintainer: Lunatik
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Architecture: iphoneos-arm
+Filename: Files//V40/com.n00neimp0rtant.xcon_40~beta6_iphoneos-arm.deb
+Size: 87690
+Installed-Size: 348
+MD5sum: 78dd851e6e9c92a32247b8c5d0a5d130
+Description: bypass anti-jailbreak protection
+Name: xCon
+Author: Lunatik
+
+Package: com.n00neimp0rtant.xcon
+Version: 40~beta7
+Section: Tweaks
+Maintainer: Lunatik
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Architecture: iphoneos-arm
+Filename: Files//V40/com.n00neimp0rtant.xcon_40~beta7_iphoneos-arm.deb
+Size: 84344
+Installed-Size: 316
+MD5sum: 0e5b226cfd6444b5ee61ab16a2ef282c
+Description: bypass anti-jailbreak protection
+Name: xCon
+Author: Lunatik
+
+Package: com.n00neimp0rtant.xcon
+Version: 40~beta1
+Section: Tweaks
+Maintainer: Lunatik
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Architecture: iphoneos-arm
+Filename: Files//V40/com.n00neimp0rtant.xcon_40~beta1_iphoneos-arm.deb
+Size: 58532
+Installed-Size: 236
+MD5sum: a1dd8d25d1d023a46f1dbcaf83ab6aed
+Description: bypass anti-jailbreak protection
+Name: xCon
+Author: Lunatik
+
+Package: com.n00neimp0rtant.xcon
+Version: 40~beta3
+Section: Tweaks
+Maintainer: Lunatik
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Architecture: iphoneos-arm
+Filename: Files//V40/com.n00neimp0rtant.xcon_40~beta3_iphoneos-arm.deb
+Size: 58856
+Installed-Size: 252
+MD5sum: 4407fa657f268139806087f9abf9770a
+Description: bypass anti-jailbreak protection
+Name: xCon
+Author: Lunatik
+
+Package: com.n00neimp0rtant.xcon
 Version: 42~beta2
 Section: Tweaks
 Maintainer: Lunatik
@@ -6,7 +246,7 @@ Depends: mobilesubstrate
 Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Architecture: iphoneos-arm
-Filename: Files/V42/com.n00neimp0rtant.xcon_42~beta2_iphoneos-arm.deb
+Filename: Files//V42/com.n00neimp0rtant.xcon_42~beta2_iphoneos-arm.deb
 Size: 142414
 Installed-Size: 515
 MD5sum: 5909c0924813cdc78862d92e23d32074
@@ -23,234 +263,10 @@ Depends: mobilesubstrate
 Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Architecture: iphoneos-arm
-Filename: Files/V42/com.n00neimp0rtant.xcon_42~beta1_iphoneos-arm.deb
+Filename: Files//V42/com.n00neimp0rtant.xcon_42~beta1_iphoneos-arm.deb
 Size: 141904
 Installed-Size: 515
 MD5sum: 7794e8ed4fee26dab0f3f77db5f0d8e0
-Description: bypass anti-jailbreak protection
-Name: xCon
-Author: Lunatik
-
-Package: com.n00neimp0rtant.xcon
-Version: 40~beta7
-Section: Tweaks
-Maintainer: Lunatik
-Depends: mobilesubstrate
-Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Architecture: iphoneos-arm
-Filename: Files/V40/com.n00neimp0rtant.xcon_40~beta7_iphoneos-arm.deb
-Size: 84344
-Installed-Size: 316
-MD5sum: 0e5b226cfd6444b5ee61ab16a2ef282c
-Description: bypass anti-jailbreak protection
-Name: xCon
-Author: Lunatik
-
-Package: com.n00neimp0rtant.xcon
-Version: 40~beta1
-Section: Tweaks
-Maintainer: Lunatik
-Depends: mobilesubstrate
-Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Architecture: iphoneos-arm
-Filename: Files/V40/com.n00neimp0rtant.xcon_40~beta1_iphoneos-arm.deb
-Size: 58532
-Installed-Size: 236
-MD5sum: a1dd8d25d1d023a46f1dbcaf83ab6aed
-Description: bypass anti-jailbreak protection
-Name: xCon
-Author: Lunatik
-
-Package: com.n00neimp0rtant.xcon
-Version: 40~beta2
-Section: Tweaks
-Maintainer: Lunatik
-Depends: mobilesubstrate
-Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Architecture: iphoneos-arm
-Filename: Files/V40/com.n00neimp0rtant.xcon_40~beta2_iphoneos-arm.deb
-Size: 58832
-Installed-Size: 252
-MD5sum: b6842a5c52126afe62d7fcf0d432dd0b
-Description: bypass anti-jailbreak protection
-Name: xCon
-Author: Lunatik
-
-Package: com.n00neimp0rtant.xcon
-Version: 40~beta4
-Section: Tweaks
-Maintainer: Lunatik
-Depends: mobilesubstrate
-Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Architecture: iphoneos-arm
-Filename: Files/V40/com.n00neimp0rtant.xcon_40~beta4_iphoneos-arm.deb
-Size: 90198
-Installed-Size: 350
-MD5sum: 77b9da5e915e37ce52db69de315d955d
-Description: bypass anti-jailbreak protection
-Name: xCon
-Author: Lunatik
-
-Package: com.n00neimp0rtant.xcon
-Version: 40~beta3
-Section: Tweaks
-Maintainer: Lunatik
-Depends: mobilesubstrate
-Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Architecture: iphoneos-arm
-Filename: Files/V40/com.n00neimp0rtant.xcon_40~beta3_iphoneos-arm.deb
-Size: 58856
-Installed-Size: 252
-MD5sum: 4407fa657f268139806087f9abf9770a
-Description: bypass anti-jailbreak protection
-Name: xCon
-Author: Lunatik
-
-Package: com.n00neimp0rtant.xcon
-Version: 40~beta8
-Section: Tweaks
-Maintainer: Lunatik
-Depends: mobilesubstrate
-Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Architecture: iphoneos-arm
-Filename: Files/V40/com.n00neimp0rtant.xcon_40~beta8_iphoneos-arm.deb
-Size: 84742
-Installed-Size: 348
-MD5sum: dc5d46db6e69056669ade9b992aa92a7
-Description: bypass anti-jailbreak protection
-Name: xCon
-Author: Lunatik
-
-Package: com.n00neimp0rtant.xcon
-Version: 40~beta6
-Section: Tweaks
-Maintainer: Lunatik
-Depends: mobilesubstrate
-Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Architecture: iphoneos-arm
-Filename: Files/V40/com.n00neimp0rtant.xcon_40~beta6_iphoneos-arm.deb
-Size: 87690
-Installed-Size: 348
-MD5sum: 78dd851e6e9c92a32247b8c5d0a5d130
-Description: bypass anti-jailbreak protection
-Name: xCon
-Author: Lunatik
-
-Package: com.n00neimp0rtant.xcon
-Version: 40~beta5
-Section: Tweaks
-Maintainer: Lunatik
-Depends: mobilesubstrate
-Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Architecture: iphoneos-arm
-Filename: Files/V40/com.n00neimp0rtant.xcon_40~beta5_iphoneos-arm.deb
-Size: 85212
-Installed-Size: 315
-MD5sum: 54557e9c05657ff1a75415095ca7cb82
-Description: bypass anti-jailbreak protection
-Name: xCon
-Author: Lunatik
-
-Package: com.n00neimp0rtant.xcon
-Version: 39~beta5
-Section: Tweaks
-Maintainer: Lunatik
-Depends: mobilesubstrate
-Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Architecture: iphoneos-arm
-Filename: Files/V39/com.n00neimp0rtant.xcon_39~beta5_iphoneos-arm.deb
-Size: 29838
-Installed-Size: 100
-MD5sum: fc7d15a711740409a76562027f7b4488
-Description: bypass anti-jailbreak protection
-Name: xCon
-Author: Lunatik
-
-Package: com.n00neimp0rtant.xcon
-Version: 39~beta6
-Section: Tweaks
-Maintainer: Lunatik
-Depends: mobilesubstrate
-Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Architecture: iphoneos-arm
-Filename: Files/V39/com.n00neimp0rtant.xcon_39~beta6_iphoneos-arm.deb
-Size: 29898
-Installed-Size: 100
-MD5sum: 812cc631bf645716dd0256a0fde298d6
-Description: bypass anti-jailbreak protection
-Name: xCon
-Author: Lunatik
-
-Package: com.n00neimp0rtant.xcon
-Version: 39~beta1
-Section: Tweaks
-Maintainer: Lunatik
-Depends: mobilesubstrate
-Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Architecture: iphoneos-arm
-Filename: Files/V39/com.n00neimp0rtant.xcon_39~beta1_iphoneos-arm.deb
-Size: 28466
-Installed-Size: 95
-MD5sum: d390f850c9c95989679bfcdd6720864f
-Description: bypass anti-jailbreak protection
-Name: xCon
-Author: Lunatik
-
-Package: com.n00neimp0rtant.xcon
-Version: 39~beta4
-Section: Tweaks
-Maintainer: Lunatik
-Depends: mobilesubstrate
-Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Architecture: iphoneos-arm
-Filename: Files/V39/com.n00neimp0rtant.xcon_39~beta4_iphoneos-arm.deb
-Size: 29306
-Installed-Size: 100
-MD5sum: 055dd83c45fc9b9e160649447be5abd2
-Description: bypass anti-jailbreak protection
-Name: xCon
-Author: Lunatik
-
-Package: com.n00neimp0rtant.xcon
-Version: 39~beta2
-Section: Tweaks
-Maintainer: Lunatik
-Depends: mobilesubstrate
-Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Architecture: iphoneos-arm
-Filename: Files/V39/com.n00neimp0rtant.xcon_39~beta2_iphoneos-arm.deb
-Size: 28676
-Installed-Size: 96
-MD5sum: 800f3f5273144efba36ee7401833abdc
-Description: bypass anti-jailbreak protection
-Name: xCon
-Author: Lunatik
-
-Package: com.n00neimp0rtant.xcon
-Version: 39~beta3
-Section: Tweaks
-Maintainer: Lunatik
-Depends: mobilesubstrate
-Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Architecture: iphoneos-arm
-Filename: Files/V39/com.n00neimp0rtant.xcon_39~beta3_iphoneos-arm.deb
-Size: 28674
-Installed-Size: 96
-MD5sum: c3ad9524fafb83432acacfa372005566
 Description: bypass anti-jailbreak protection
 Name: xCon
 Author: Lunatik
