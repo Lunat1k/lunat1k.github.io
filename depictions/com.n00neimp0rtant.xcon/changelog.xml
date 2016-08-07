@@ -1,5 +1,9 @@
 <changelog>
   <changes>
+    <version>42 Beta 2</version>
+    <change>Added some potienal checks for the latest Pangu Jailbreak</change>
+  </changes>
+  <changes>
    <version>42 Beta 1</version>
    <change>iOS 9 Support</change>
    <change>Readded Support for Good 1.9.X</change>

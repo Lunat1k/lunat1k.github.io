@@ -1,4 +1,21 @@
 Package: com.n00neimp0rtant.xcon
+Version: 42~beta2
+Section: Tweaks
+Maintainer: Lunatik
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Architecture: iphoneos-arm
+Filename: Files/V42/com.n00neimp0rtant.xcon_42~beta2_iphoneos-arm.deb
+Size: 142414
+Installed-Size: 515
+MD5sum: 5909c0924813cdc78862d92e23d32074
+Description: bypass anti-jailbreak protection
+Name: xCon
+Author: Lunatik
+Depiction: http://xcon.crazy.net/depictions/index.html?p=com.n00neimp0rtant.xcon
+
+Package: com.n00neimp0rtant.xcon
 Version: 42~beta1
 Section: Tweaks
 Maintainer: Lunatik
@@ -13,7 +30,6 @@ MD5sum: 7794e8ed4fee26dab0f3f77db5f0d8e0
 Description: bypass anti-jailbreak protection
 Name: xCon
 Author: Lunatik
-Depiction: http://xcon.crazy.net/depictions/index.html?p=com.n00neimp0rtant.xcon
 
 Package: com.n00neimp0rtant.xcon
 Version: 40~beta7

@@ -12,8 +12,7 @@
 		<package>mobilesubstrate</package>
 	</dependencies>
 	<changelog>
-		<change>iOS 9 Support</change>
-		<change>Readded Support for Good 1.9.X</change>
+		<change>Added some potienal checks for the latest Pangu Jailbreak</change>
 	</changelog>
 	<links>
 	</links>
