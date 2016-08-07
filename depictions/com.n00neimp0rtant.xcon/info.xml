@@ -8,9 +8,6 @@
 			<maxiOS>9.3.3</maxiOS>
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package>mobilesubstrate</package>
-	</dependencies>
 	<changelog>
 		<change>Added some potienal checks for the latest Pangu Jailbreak</change>
 	</changelog>
