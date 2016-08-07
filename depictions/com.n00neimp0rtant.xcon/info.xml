@@ -13,6 +13,7 @@
 	</dependencies>
 	<changelog>
 		<change>iOS 9 Support</change>
+		<change>Readded Support for Good 1.9.X</change>
 	</changelog>
 	<links>
 	</links>
