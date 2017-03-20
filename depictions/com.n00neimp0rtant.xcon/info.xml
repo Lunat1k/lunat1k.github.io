@@ -1,7 +1,7 @@
 <package>
 	<id>com.n00neimp0rtant.xcon</id>
 	<name>Full Package</name>
-	<version>42 Beta 2</version>
+	<version>42 Beta 3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>4.0</miniOS>
@@ -9,7 +9,7 @@
 		</firmware>
 	</compatibility>
 	<changelog>
-		<change>Added some potienal checks for the latest Pangu Jailbreak</change>
+		<change>TicketMaster Temporary Workaround</change>
 	</changelog>
 	<links>
 	</links>
