@@ -1,15 +1,15 @@
 <package>
 	<id>com.n00neimp0rtant.xcon</id>
 	<name>Full Package</name>
-	<version>42 Beta 3</version>
+	<version>42 Beta 4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>4.0</miniOS>
-			<maxiOS>9.3.3</maxiOS>
+			<maxiOS>10.2.3</maxiOS>
 		</firmware>
 	</compatibility>
 	<changelog>
-		<change>TicketMaster Temporary Workaround</change>
+		<change>Handled a situation where jailbreak detection is sometimes handled via a Dynamic Framework. Discovered in TicketMaster app. This MAY help with others</change>
 	</changelog>
 	<links>
 	</links>

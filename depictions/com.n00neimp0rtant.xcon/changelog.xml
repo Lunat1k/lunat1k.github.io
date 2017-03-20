@@ -1,5 +1,9 @@
 <changelog>
   <changes>
+	<version>42 Beta 4</version>
+	<change>Handled a situation where jailbreak detection is sometimes handled via a Dynamic Framework. Discovered in TicketMaster app. This MAY help with others</change>
+  </changes>
+  <changes>
 	<version>42 Beta 3</version>
 	<change>Temporary Workaround for TicketMaster. Will focus on a more permanent solution as time permits</change>
   </changes>
