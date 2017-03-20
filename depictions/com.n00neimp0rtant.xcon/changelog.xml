@@ -1,5 +1,9 @@
 <changelog>
   <changes>
+	<version>42 Beta 3</version>
+	<change>Temporary Workaround for TicketMaster. Will focus on a more permanent solution as time permits</change>
+  </changes>
+  <changes>
     <version>42 Beta 2</version>
     <change>Added some potienal checks for the latest Pangu Jailbreak</change>
   </changes>
